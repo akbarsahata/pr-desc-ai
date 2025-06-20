@@ -1,0 +1,4 @@
+packages:
+  - git-parser
+  - inference-worker
+  - vscode-extension
